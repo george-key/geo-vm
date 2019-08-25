@@ -15,9 +15,9 @@
     <img src='https://codecov.io/github/george-key/geo-vm/branch/master/graph/badge.svg' 
     alt='Current Coverage Status.' />
   </a>
-  <a href="https://github.com/george-key/geo-vm">
+ <!-- <a href="https://github.com/george-key/geo-vm">
     <img src="https://tokei.rs/b1/github/george-key/geo-vm?category=lines" alt="total lines.">
-  </a>
+  </a> -->
   <a href="https://github.com/george-key/geo-vm/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License.">
   </a>	
